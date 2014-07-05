@@ -1,0 +1,14 @@
+body, html, #map {
+	width  : 100%;
+	height : 100%;
+	padding: 0;
+	margin : 0;
+}
+
+#mapCanvas {
+	position: absolute;
+}
+
+.leaflet-container {
+	background: rgba(128,128,128, 0.75)
+}
