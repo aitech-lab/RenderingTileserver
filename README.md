@@ -3,10 +3,6 @@ Ailove-RenderingTileserver
 
 This simple examples demonstrates, how to transform the blender to an rendering tileserver
 
-http://youtu.be/79_w33B2gF4
-http://youtu.be/dGBqfSeHvZA
-http://youtu.be/WPSE7rALUvk
-
  * [Video 1](http://youtu.be/6dn10THt08w) 
  * [Video 2](http://youtu.be/79_w33B2gF4)
  * [Video 3](http://youtu.be/dGBqfSeHvZA)
